@@ -39,8 +39,15 @@ React, Next.js, Node.js, Express.js, Java, Python, Web uygulamaları & API geli�
 
 ---
 
-# 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiğit-boran-gülkan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/borangulkan/) 📧 **borangulkan@gmail.com**
----
+# 🌐 Socials
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiğit-boran-gülkan)  
+  <br>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/borangulkan/)  
+  <br>
+  [![Email](https://img.shields.io/badge/Email-borangulkan@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borangulkan@gmail.com)
+</p>
+
 
 # 💻 Tech Stack
 
