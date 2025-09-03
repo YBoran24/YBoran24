@@ -45,8 +45,9 @@ React, Next.js, Node.js, Express.js, Java, Python, Web uygulamaları & API geli�
   <br>
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/borangulkan/)  
   <br>
-  [![Email](https://img.shields.io/badge/Email-borangulkan@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borangulkan@gmail.com)
+  📧 <a href="mailto:borangulkan@gmail.com">borangulkan@gmail.com</a>
 </p>
+
 
 
 # 💻 Tech Stack
