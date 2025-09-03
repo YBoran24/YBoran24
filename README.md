@@ -28,14 +28,14 @@
 - Web uygulamaları & API geliştirme  
 
 ⚡ Fun fact  
-- Kod yazarken en çok kahve tüketiyorum ☕  
+- Kod yazarken en çok bişeyler atıştırmayı severim 🍪 
 
 ---
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kendi-linkin)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kendi-instagramin)  
-📧 **email@example.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiğit-boran-gülkan)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/borangulkan/)  
+📧 **borangulkan@gmail.com**
 
 ---
 
