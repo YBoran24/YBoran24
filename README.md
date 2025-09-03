@@ -34,7 +34,7 @@ React, Next.js, Node.js, Express.js, Java, Python, Web uygulamaları & API geli�
 </p>
 
 <p align="center">
-⚡ Fun fact: Kod yazarken en çok bişeyler atıştırmayı severim 🍪
+⚡ Fun fact: Kod yazarken en çok bişeyler yerim 🍪
 </p>
 
 ---
